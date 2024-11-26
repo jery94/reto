@@ -1,0 +1,33 @@
+﻿@using Reto1.Negocio
+
+@{
+ViewBag.Title = "Index";
+}
+
+<h2>Listado de productos</h2>
+@{ List<Producto> productos = (List<Producto>)ViewBag.productos;}
+@Html.ActionLink("Crear producto", "Create")
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+        <th>Opciones</th>
+    </tr>
+    @foreach(var producto in productos)
+            {
+                <tr>                                
+                    <td>@producto.nombre</td>
+                    <td>@producto.descripcion</td>
+                    <td>@producto.precio</td>
+                    <td>
+                        @Html.ActionLink("Eliminar", "Delete", new { id = producto.Id })
+                        @Html.ActionLink("Modificar", "Edit", new { id = producto.Id })
+                    </td>
+
+                </tr>
+            }
+</table>
+
+@TempData ["Listado de Reportes", "El bebe"]

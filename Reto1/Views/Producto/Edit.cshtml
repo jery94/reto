@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Modificar";
+}
+
+<h2>Editar producto</h2>
+
+@using (Html.BeginForm())
+{
+
+    @Html.LabelFor(p => p.Nombre)
+    @Html.TextBox(p => p.Nombre)
+    <br />
+    @Html.LabelFor(p => p.descripcion)
+    @Html.TextBox(p => p.descripcion)
+    <br />
+    @Html.LabelFor(p => p.precio)
+    @Html.TextBox(p => p.precio)
+    <br />
+    <button>Guardar</button>
+}
+
+
+

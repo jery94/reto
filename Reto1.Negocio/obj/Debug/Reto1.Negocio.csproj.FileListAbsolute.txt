@@ -1,0 +1,15 @@
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\Reto1.Negocio.dll
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\Reto1.Negocio.pdb
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\Reto1.DALC.dll
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\Reto1.DALC.pdb
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\obj\Debug\Reto1.Negocio.csproj.AssemblyReference.cache
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\obj\Debug\Reto1.Negocio.csproj.CoreCompileInputs.cache
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\obj\Debug\Reto1.Ne.9C402C89.Up2Date
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\obj\Debug\Reto1.Negocio.dll
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\obj\Debug\Reto1.Negocio.pdb
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\Reto1.Negocio.dll.config
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\EntityFramework.dll
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\EntityFramework.xml
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\PROYECTOS_VISUAL\Reto1\Reto1.Negocio\bin\Debug\Reto1.DALC.dll.config
